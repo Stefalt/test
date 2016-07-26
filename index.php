@@ -2,7 +2,6 @@
 
 session_start();
 ////session_unset();
-//die;
 
 //$_SESSION['test'] = [];die;
 
