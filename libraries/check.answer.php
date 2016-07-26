@@ -1,5 +1,4 @@
 <?php
-echo "HELLO WORLD2";
 
 session_start();
 $mysqli = new mysqli("localhost", "root", "root", "HistoryResults");
