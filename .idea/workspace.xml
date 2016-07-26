@@ -71,8 +71,8 @@
             <state relative-caret-position="17">
               <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding>
-                <marker date="1469527217768" expanded="true" signature="297:413" ph="INSERT INTO list... " />
-                <marker date="1469527217768" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
+                <marker date="1469527264345" expanded="true" signature="297:413" ph="INSERT INTO list... " />
+                <marker date="1469527264345" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
               </folding>
             </state>
           </provider>
@@ -287,12 +287,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469088953288</updated>
-      <workItem from="1469088957486" duration="64816000" />
+      <workItem from="1469088957486" duration="64866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64816000" />
+    <option name="totallyTimeSpent" value="64866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,8 +477,8 @@
         <state relative-caret-position="17">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding>
-            <marker date="1469527217768" expanded="true" signature="297:413" ph="INSERT INTO list... " />
-            <marker date="1469527217768" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
+            <marker date="1469527264345" expanded="true" signature="297:413" ph="INSERT INTO list... " />
+            <marker date="1469527264345" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
           </folding>
         </state>
       </provider>

@@ -1,5 +1,5 @@
 <?php
-echo "Test-version1";
+echo "Test-version2";
 
 session_start();
 $mysqli = new mysqli("localhost", "root", "root", "HistoryResults");
