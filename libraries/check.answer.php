@@ -11,8 +11,6 @@ if (isset($_POST['submit'])) {
     $query = "INSERT INTO list (number, number2, answer) VALUES ({$_SESSION["number"]}, {$_SESSION["number2"]},{$_POST['answer']})";
     $mysqli->query($query);
 }
-
-
 $_SESSION["number"] = rand(1, 9);
 $_SESSION["number2"] = rand(1, 9);
 
