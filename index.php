@@ -1,8 +1,10 @@
-<?php
 
+
+
+<?php
 session_start();
 ////session_unset();
-
+//die;
 //$_SESSION['test'] = [];die;
 
 //array_push($_SESSION['test'], [
