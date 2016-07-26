@@ -68,12 +68,9 @@
       <file leaf-file-name="check.answer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding>
-                <marker date="1469527342583" expanded="true" signature="297:413" ph="INSERT INTO list... " />
-                <marker date="1469527342583" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -287,12 +284,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469088953288</updated>
-      <workItem from="1469088957486" duration="64981000" />
+      <workItem from="1469088957486" duration="65545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64981000" />
+    <option name="totallyTimeSpent" value="65545000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,12 +471,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding>
-            <marker date="1469527342583" expanded="true" signature="297:413" ph="INSERT INTO list... " />
-            <marker date="1469527342583" expanded="true" signature="868:886" ph="SELECT * FRO... list" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
