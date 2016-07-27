@@ -68,9 +68,16 @@
       <file leaf-file-name="check.answer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
+                <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
+                <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+                <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
+                <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
+                <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,6 +157,9 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -284,12 +294,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469088953288</updated>
-      <workItem from="1469088957486" duration="66649000" />
+      <workItem from="1469088957486" duration="64981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66649000" />
+    <option name="totallyTimeSpent" value="65588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,78 +351,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1013" column="9" selection-start-line="1013" selection-start-column="9" selection-end-line="1013" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="2063" column="24" selection-start-line="2063" selection-start-column="24" selection-end-line="2063" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongodb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="436" column="28" selection-start-line="436" selection-start-column="28" selection-end-line="436" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_c1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1259" column="24" selection-start-line="1259" selection-start-column="8" selection-end-line="1259" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="3964" column="40" selection-start-line="3964" selection-start-column="36" selection-end-line="3964" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -473,7 +411,368 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
+            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1013" column="9" selection-start-line="1013" selection-start-column="9" selection-end-line="1013" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="2063" column="24" selection-start-line="2063" selection-start-column="24" selection-end-line="2063" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongodb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="436" column="28" selection-start-line="436" selection-start-column="28" selection-end-line="436" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1259" column="24" selection-start-line="1259" selection-start-column="8" selection-end-line="1259" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="3964" column="40" selection-start-line="3964" selection-start-column="36" selection-end-line="3964" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="2078" column="36" selection-start-line="2078" selection-start-column="30" selection-end-line="2078" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/testarray.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/check _answer.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
+            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1013" column="9" selection-start-line="1013" selection-start-column="9" selection-end-line="1013" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="2063" column="24" selection-start-line="2063" selection-start-column="24" selection-end-line="2063" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongodb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="436" column="28" selection-start-line="436" selection-start-column="28" selection-end-line="436" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1259" column="24" selection-start-line="1259" selection-start-column="8" selection-end-line="1259" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="3964" column="40" selection-start-line="3964" selection-start-column="36" selection-end-line="3964" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="2078" column="36" selection-start-line="2078" selection-start-column="30" selection-end-line="2078" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/testarray.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/check _answer.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
+            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="240" column="9" selection-start-line="240" selection-start-column="9" selection-end-line="240" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1013" column="9" selection-start-line="1013" selection-start-column="9" selection-end-line="1013" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="2063" column="24" selection-start-line="2063" selection-start-column="24" selection-end-line="2063" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mongodb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="436" column="28" selection-start-line="436" selection-start-column="28" selection-end-line="436" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1259" column="24" selection-start-line="1259" selection-start-column="8" selection-end-line="1259" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="3964" column="40" selection-start-line="3964" selection-start-column="36" selection-end-line="3964" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="2078" column="36" selection-start-line="2078" selection-start-column="30" selection-end-line="2078" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/testarray.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/check _answer.php" />
+    <entry file="file://$PROJECT_DIR$/libraries/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding>
+            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/check.answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
+            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
+            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
