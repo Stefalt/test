@@ -1,9 +1,6 @@
 <?php
-<<<<<<< HEAD
-=======
-echo "Hello";
+echo "Test-version4";
 
->>>>>>> feature
 session_start();
 $mysqli = new mysqli("localhost", "root", "root", "HistoryResults");
 if ($mysqli->connect_errno) {
