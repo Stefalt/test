@@ -35,7 +35,7 @@
             <state relative-caret-position="-810">
               <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
               <folding>
-                <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+                <marker date="1469613590274" expanded="true" signature="1948:1982" ph="..." />
               </folding>
             </state>
           </provider>
@@ -47,19 +47,19 @@
             <state relative-caret-position="1598">
               <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding>
-                <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
-                <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
-                <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
-                <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
-                <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
-                <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
-                <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="1449:1608" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="1491:1608" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+                <marker date="1469613590299" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+                <marker date="1469613590299" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+                <marker date="1469613590299" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+                <marker date="1469613590299" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+                <marker date="1469613590299" expanded="true" signature="2337:2376" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2337:2409" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2337:2438" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2337:2461" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2337:2463" ph="..." />
+                <marker date="1469613590299" expanded="true" signature="2711:2745" ph="..." />
               </folding>
             </state>
           </provider>
@@ -71,12 +71,8 @@
             <state relative-caret-position="85">
               <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding>
-                <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
-                <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
-                <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
-                <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
-                <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
-                <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+                <marker date="1469614050406" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+                <marker date="1469614050406" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
               </folding>
             </state>
           </provider>
@@ -121,6 +117,7 @@
         <option value="$PROJECT_DIR$/libraries/test.php" />
         <option value="$PROJECT_DIR$/libraries/testarray.php" />
         <option value="$PROJECT_DIR$/libraries/check _answer.php" />
+        <option value="$PROJECT_DIR$/libraries/check.answer.php.LOCAL.1920.php" />
         <option value="$PROJECT_DIR$/libraries/check.answer.php" />
       </list>
     </option>
@@ -351,14 +348,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="2078" column="36" selection-start-line="2078" selection-start-column="30" selection-end-line="2078" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libraries/testarray.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -380,19 +369,19 @@
         <state relative-caret-position="1598">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
-            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2711:2745" ph="..." />
           </folding>
         </state>
       </provider>
@@ -402,7 +391,7 @@
         <state relative-caret-position="-810">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+            <marker date="1469613590274" expanded="true" signature="1948:1982" ph="..." />
           </folding>
         </state>
       </provider>
@@ -412,12 +401,8 @@
         <state relative-caret-position="17">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding>
-            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
-            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
-            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+            <marker date="1469614050406" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469614050406" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
           </folding>
         </state>
       </provider>
@@ -498,19 +483,19 @@
         <state relative-caret-position="1598">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
-            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2711:2745" ph="..." />
           </folding>
         </state>
       </provider>
@@ -520,7 +505,7 @@
         <state relative-caret-position="-810">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+            <marker date="1469613590274" expanded="true" signature="1948:1982" ph="..." />
           </folding>
         </state>
       </provider>
@@ -530,12 +515,8 @@
         <state relative-caret-position="646">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
-            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
-            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+            <marker date="1469614050406" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469614050406" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
           </folding>
         </state>
       </provider>
@@ -616,19 +597,19 @@
         <state relative-caret-position="1598">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
-            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2711:2745" ph="..." />
           </folding>
         </state>
       </provider>
@@ -638,7 +619,7 @@
         <state relative-caret-position="-810">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+            <marker date="1469613590274" expanded="true" signature="1948:1982" ph="..." />
           </folding>
         </state>
       </provider>
@@ -648,12 +629,8 @@
         <state relative-caret-position="221">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
-            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
-            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+            <marker date="1469614050406" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469614050406" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
           </folding>
         </state>
       </provider>
@@ -734,19 +711,19 @@
         <state relative-caret-position="1598">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding>
-            <marker date="1469195779449" expanded="true" signature="1449:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="1491:1608" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
-            <marker date="1469195779449" expanded="true" signature="2337:2376" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2409" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2438" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2461" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2337:2463" ph="..." />
-            <marker date="1469195779449" expanded="true" signature="2711:2745" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1449:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="1491:1608" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2141:2204" ph="INSERT INTO List... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2220" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2221" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2241" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2141:2257" ph="INSERT INTO list... " />
+            <marker date="1469613590299" expanded="true" signature="2337:2376" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2409" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2438" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2461" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2337:2463" ph="..." />
+            <marker date="1469613590299" expanded="true" signature="2711:2745" ph="..." />
           </folding>
         </state>
       </provider>
@@ -756,8 +733,16 @@
         <state relative-caret-position="-810">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
           <folding>
-            <marker date="1469189143262" expanded="true" signature="1948:1982" ph="..." />
+            <marker date="1469613590274" expanded="true" signature="1948:1982" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/check.answer.php.LOCAL.1920.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -766,12 +751,8 @@
         <state relative-caret-position="85">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding>
-            <marker date="1469604725199" expanded="true" signature="173:278" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="311:473" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="326:442" ph="INSERT INTO list... " />
-            <marker date="1469604725199" expanded="true" signature="598:805" ph="..." />
-            <marker date="1469604725199" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
-            <marker date="1469604725199" expanded="true" signature="1100:1535" ph="..." />
+            <marker date="1469614050406" expanded="true" signature="326:442" ph="INSERT INTO list... " />
+            <marker date="1469614050406" expanded="true" signature="897:915" ph="SELECT * FRO... list" />
           </folding>
         </state>
       </provider>
