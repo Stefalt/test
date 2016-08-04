@@ -1,7 +1,29 @@
 
+[RuntimeException]
+Symfony can't be installed because the downloaded package is corrupted
+or because the installer doesn't have enough permissions to uncompress and
+rename the package contents.
+To solve this issue, check the permissions of the /var/www directory and
+try executing this command again:
+symfony new symfony 3.1.3
+
+
+
 
 
 <?php
+require __DIR__ . '/my_project/vendor/autoload.php';
+
+
+require __DIR__ . '/libraries/asd.php';
+
+// 1.*
+//2.*
+$asd = new asd();
+echo $asd->test(7, []);
+die;
+
+
 session_start();
 ////session_unset();
 //die;
